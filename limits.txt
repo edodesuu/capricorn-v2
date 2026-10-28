@@ -1,0 +1,5 @@
+Intel Core i7 10th Gen
+Nvidia GeForce RTX 2060
+DDR4 RAM 16Gb
+SSD 1Tb SATA
+HDD 1Tb
